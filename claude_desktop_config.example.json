@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "facebook-ads": {
+      "command": "meta-ads-mcp"
+    }
+  }
+}

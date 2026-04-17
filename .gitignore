@@ -1,0 +1,16 @@
+node_modules/
+dist/
+*.log
+
+# Secrets — never commit these
+.env
+*.txt
+*token*
+*secret*
+
+# Claude internal
+.claude/
+
+# macOS
+.DS_Store
+.DS_Store?
